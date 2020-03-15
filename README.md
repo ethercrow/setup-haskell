@@ -55,6 +55,7 @@ Supported versions of GHC:
 - `8.6.4`
 - `8.6.5`
 - `8.8.1`
+- `8.8.2`
 
 Supported versions of Cabal:
 
